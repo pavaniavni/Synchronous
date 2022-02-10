@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synchronous", "Synchronous\Synchronous.csproj", "{97D52FFB-9DDF-404A-875D-2D465EADEFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D52FFB-9DDF-404A-875D-2D465EADEFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D52FFB-9DDF-404A-875D-2D465EADEFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D52FFB-9DDF-404A-875D-2D465EADEFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D52FFB-9DDF-404A-875D-2D465EADEFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C7A1F3-4D54-4B2F-973B-BD0F20B42EA0}
+	EndGlobalSection
+EndGlobal

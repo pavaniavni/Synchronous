@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\obj\Debug\net6.0\Synchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\obj\Debug\net6.0\Synchronous.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\obj\Debug\net6.0\Synchronous.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\obj\Debug\net6.0\Synchronous.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\bin\Debug\net6.0\Synchronous.exe
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\bin\Debug\net6.0\Synchronous.deps.json
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\bin\Debug\net6.0\Synchronous.runtimeconfig.json
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\bin\Debug\net6.0\Synchronous.dll
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\bin\Debug\net6.0\ref\Synchronous.dll
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\bin\Debug\net6.0\Synchronous.pdb
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\obj\Debug\net6.0\Synchronous.dll
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\obj\Debug\net6.0\ref\Synchronous.dll
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\obj\Debug\net6.0\Synchronous.pdb
+C:\Users\Pavani\source\repos\Synchronous\Synchronous\obj\Debug\net6.0\Synchronous.genruntimeconfig.cache
